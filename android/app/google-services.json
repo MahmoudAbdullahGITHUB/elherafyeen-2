@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756477731026",
+    "firebase_url": "https://elherafyeen-ed7aa-default-rtdb.firebaseio.com",
+    "project_id": "elherafyeen-ed7aa",
+    "storage_bucket": "elherafyeen-ed7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756477731026:android:fd3c2a310781af0bd9cd0b",
+        "android_client_info": {
+          "package_name": "com.elherafyeen.elherafyeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756477731026-vtvt8q31pdgahv573ktb893j8uduep88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7q05_tn3nzlJmBbJ4roUQJqbL-PDHrdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756477731026-vtvt8q31pdgahv573ktb893j8uduep88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

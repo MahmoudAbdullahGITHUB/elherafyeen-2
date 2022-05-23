@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>756477731026-qfhdnkb3sc2usk3nmh3uet3jnqrptau8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.756477731026-qfhdnkb3sc2usk3nmh3uet3jnqrptau8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKFgoRWp6hmPWHieJeBjnaBYe-Hh1Q0bM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>756477731026</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.elherafyeen.app</string>
+	<key>PROJECT_ID</key>
+	<string>elherafyeen-ed7aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elherafyeen-ed7aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:756477731026:ios:1625630fa09eb405d9cd0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://elherafyeen-ed7aa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

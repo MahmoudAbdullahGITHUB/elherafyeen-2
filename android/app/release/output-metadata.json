@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.elherafyeen.elherafyeen",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 20055,
+      "versionName": "3.2.2",
+      "outputFile": "app-release.apk"
+    }
+  ]
+}
